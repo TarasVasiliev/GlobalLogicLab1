@@ -3,3 +3,4 @@ lone02
 lone03 
 lone04 
 lone05 
+lone07
